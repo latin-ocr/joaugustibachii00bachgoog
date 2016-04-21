@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joaugustibachii00bachgoog_0085.png"; bbox 0 0 4702 6338; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1013 343 2687 500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1013 343 2687 500">
+     <span class='ocr_line' id='line_1_1' title="bbox 1013 343 2687 500; baseline 0.022 -46"><span class='ocrx_word' id='word_1_1' title='bbox 1013 448 1018 454; x_wconf 87' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1150 343 1603 500; x_wconf 43' lang='lat' dir='ltr'><em>sbribusque</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1668 391 1888 496; x_wconf 68' lang='lat' dir='ltr'><em>usque</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1948 391 2052 474; x_wconf 74' lang='lat' dir='ltr'><em>ad</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2101 391 2494 491; x_wconf 55' lang='lat' dir='ltr'><em>Caesmsae-</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2558 478 2567 488; x_wconf 93' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2681 438 2687 445; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3098 424 3211 514">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3098 424 3211 514">
+     <span class='ocr_line' id='line_1_2' title="bbox 3098 424 3211 514; baseline 0.062 -22"><span class='ocrx_word' id='word_1_8' title='bbox 3098 424 3211 514; x_wconf 47' lang='lat'><em>73„</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
